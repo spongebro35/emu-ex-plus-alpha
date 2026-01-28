@@ -42,3 +42,5 @@
 [Snes9x EX 1.43]: https://github.com/Rakashazi/emu-ex-plus-alpha/releases/download/Pre-release/Snes9xEX.zip
 [Snes9x EX Plus]: https://github.com/Rakashazi/emu-ex-plus-alpha/releases/download/Pre-release/Snes9xEXPlus.zip
 [Swan emu]: https://github.com/Rakashazi/emu-ex-plus-alpha/releases/download/Pre-release/SwanEmu.zip
+
+trigger - 1
